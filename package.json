@@ -2,11 +2,11 @@
   "name": "my-students-api",
   "version": "1.0.0",
   "description": "",
-  "main": "./src/index.ts",
+  "main": "./src/server.ts",
   "scripts": {
-    "dev": "ts-node-dev --respawn --pretty --transpile-only src/index.ts",
+    "dev": "ts-node-dev --respawn --pretty --transpile-only src/server.ts",
     "build": "tsc",
-    "start": "node ./dist/index.js"
+    "start": "node ./dist/server.js"
   },
   "repository": {
     "type": "git",
