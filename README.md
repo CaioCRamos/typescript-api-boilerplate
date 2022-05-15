@@ -1,2 +1,2 @@
-# my-students-api
+# typescript-api-boilerplate
 
